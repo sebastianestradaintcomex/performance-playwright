@@ -1,0 +1,398 @@
+{
+  "cookies": [
+    {
+      "name": "previousLang",
+      "value": "es",
+      "domain": "myservices.intcomex.com",
+      "path": "/es/XGT",
+      "expires": 1778357165,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2039521263.1775765158",
+      "domain": ".intcomex.com",
+      "path": "/",
+      "expires": 1810325164.899099,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "referer",
+      "value": "https%3A%2F%2Fmyservices.intcomex.com%2Fes%2FXGT%2F",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "language",
+      "value": "es",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "redirect",
+      "value": "%3Fid%3D2026-04-09T20%253A05%253A58.763Z%26search%3D",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "initializedFrom",
+      "value": "services_portal",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "state",
+      "value": "4d2eba86950e79c28aecdd8c644ba7cf",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "loginattempt",
+      "value": "true",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "authurl",
+      "value": "https%3A%2F%2Fintcomexaccounts.b2clogin.com%2Fintcomexaccounts.onmicrosoft.com%2Fb2c_1_login_with_mfa_sms%2Foauth2%2Fv2.0%2Fauthorize%3Fclient_id%3D944bdc64-bc6e-4ea9-b835-083f20ca9766%26scope%3Dopenid%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fmyservices.intcomex.com%252Fapi%252Fauth%252Fb2c%252Fauth-redirection%26code_challenge%3DAHHws66HI5wWVkhmsaLH-MzTL6IWN92V7yeTiAAA1gU%26code_challenge_method%3DS256%26ui_locales%3Des%26response_mode%3Dform_post%26state%3D4d2eba86950e79c28aecdd8c644ba7cf%26prompt%3Dlogin",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "x-ms-cpim-csrf",
+      "value": "aFV2WnJhNDZrdTdYWCtxdnRBaStlRURsYWRLQk9Wa3VCNzFnTjRaODNaM3dyQ0l6R2UxeWJSNXhCaGxvclByOWdOaTUxVnNxSE42Tk9XSS9vSW9pVUE9PTsyMDI2LTA0LTA5VDIwOjA2OjAwLjM2NDYzN1o7RThQdkx1Zk5wOENrOUhZSVVpRnZuUT09O3siT3JjaGVzdHJhdGlvblN0ZXAiOjF9",
+      "domain": ".intcomexaccounts.b2clogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.1822297853.1775765162",
+      "domain": ".intcomexaccounts.b2clogin.com",
+      "path": "/",
+      "expires": 1810325161.60612,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.923096319.1775765162",
+      "domain": ".intcomexaccounts.b2clogin.com",
+      "path": "/",
+      "expires": 1775851561,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-173902951-2",
+      "value": "1",
+      "domain": ".intcomexaccounts.b2clogin.com",
+      "path": "/",
+      "expires": 1775765221,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_7NX2Y4NYLB",
+      "value": "GS2.3.s1775765161$o1$g0$t1775765161$j60$l0$h0",
+      "domain": ".intcomexaccounts.b2clogin.com",
+      "path": "/",
+      "expires": 1810325161.992709,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "x-ms-cpim-sso:intcomexaccounts.onmicrosoft.com_0",
+      "value": "m1.0RMYYp1OQfd9xVI7.7bsfMsQG6hnuMWAVSq3hZQ==.0.Kn0IEsmBm0n8uygBdwzGWsxgz4MOt95Kw02WPgoGOu4FXjnj4+LiVXf04XAbJvm3nOhlLQc0IPoE6cxIyJ3QaqELDaH8CAsJ61GWaBzs+fjWQxdXO/4HB4BJq0gxXKOsv2XHcPIJMN2wTXI5NRJ7ovRlQm2vBHAdd6jxDjZuDsJSAHHVdrTdSWSIbS+zGoo5TInqmMSr8PJMAKA8K5ZXidqcP4Flc7xkm14PpWw5g+jVcKyRjLE8EnrXv0IwLuuaEl0o2rV4PP8HDWgBNIzy5+RlxMuP70zo/VNoEph6gtHaFc7h0jRy2GfzrBu0TN7NbIDCyHVLKKlREepUkLRe30VtK9Umi4xbCLv0TAhlv/EMLiBxvxJOZfGXdY9WAsPdUdJHJx8O/TnVOZd1zSS7DFl7P7Qq94eiBm3MLlrAn08CGPB+mVdL5qXSCVVuuPHUK4ghA/U8jAk1tcv7NeLExIu3sCE7Q3u212Iy5tT8wyuI/3sn/m4CkupfB5L7J8WtDbWAlFHKxaSQ2vL8tilaEMNua7eCTKOfCgFNnQmJn+796AOscIwH7etpDwMoW7f+xZ0iefJiWGytLzIWwwqEWSjPSIdgTDkyrgcLIEkiAhpQhR0Dk+f+iGq4HH5VhWhPfFaXjMsKMc4IN8n3WbVY5+p/Uw50QM7QWp429adx/wNIdc4opmbT09FK/DnzE5s8TbSkka8rTMa5yKBw/VHqyr/sIv5uAUKlOQmzj3SAHixj3LfsAX65s8CPuSnrMq2kattRmWwcSaFBrXGmebkmhFYLxbNghq2GqCNNc7wLxiJwBmt89ezP+mvTGWyFUJsuCoI9vf0VQ+baLzMm9uRJVo1Q1w2sfhi2SNLvELE=",
+      "domain": ".intcomexaccounts.b2clogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__uzma",
+      "value": "3ec1fda7-cd74-4dc3-8a56-a4fb84c95766",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": 1791489963.301873,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmb",
+      "value": "1775765163",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": 1791489963.302029,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzme",
+      "value": "1367",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": 1791489963.302084,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sessionType",
+      "value": "b2c",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "sessionToken",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiJDJiJDEyJFdrVVQ3VW1lZ0g4YVhIZFFuRHdtZWU5Lm16WEt1ay5rU0cvRERNek1neVROem5CZFhQamVHIiwiaWF0IjoxNzc1NzY1MTY0LCJleHAiOjE3NzU3NzA1NjR9._OujZsEqJ6x8OiyfGE6jJdgE3Xri8nbTA_MZmevRA18",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "accessToken",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmtZWFJoSWpvaUpESmlKREV5SkZkclZWUTNWVzFsWjBnNFlWaElaRkZ1UkhkdFpXVTVMbTE2V0V0MWF5NXJVMGN2UkVSTmVrMW5lVlJPZW01Q1pGaFFhbVZISWl3aWFXRjBJam94TnpjMU56WTFNVFkwTENKbGVIQWlPakUzTnpVM056QTFOalI5Ll9PdWpac0VxSjZ4OE9peWZHRTZqSmRnRTNYcmk4bmJUQV9NWm1ldlJBMTgiLCJpYXQiOjE3NzU3NjUxNjQsImV4cCI6MTc3NTc2NTE2OX0.99Z79agNbkPAeIzCxpuugZVYFDdrHMP3ASQm9WHlO1U",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "sessionId",
+      "value": "7B7F1B89-4F34-F111-9962-00505681A1D3",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "email",
+      "value": "xgtwebdemo2%40yopmail.com",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "loggedIn",
+      "value": "true",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "subsidiary",
+      "value": "XGT",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "customerId",
+      "value": "XGT103695",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "webuserId",
+      "value": "1643822130741",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "currency",
+      "value": "QTZ",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "timeT",
+      "value": "90",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "requestToken",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiZDIyOGY5YTRmZjZhZGRmNjg4ZTEwMmE1Y2I1M2FhZDgyYjkyNmU1OTJhNzMxODBkYjU3NTVhZWU4N2QzOTMzMyIsImlhdCI6MTc3NTc2NTE2NCwiZXhwIjoxNzc1NzY1MTY5fQ.m6Kbm_G8Aa1dMpUL9hZ-bDwzKPqUiB69iBzh8ty2MOM",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_7PCVXNQCFB",
+      "value": "GS2.1.s1775765158$o1$g1$t1775765164$j54$l0$h0",
+      "domain": ".intcomex.com",
+      "path": "/",
+      "expires": 1810325164.912873,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmd",
+      "value": "1775765165",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": 1791489965.456335,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmc",
+      "value": "572511954827",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": 1791489965.456276,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmf",
+      "value": "7f90003ec1fda7-cd74-4dc3-8a56-a4fb84c957661-17757651632162076-001d82a7b229756872119",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": 1791489965.456364,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uzmx",
+      "value": "7f900007947c7c-775e-46ed-8447-f64179aa76d11-17757651632162076-190487d18859b7b419",
+      "domain": ".intcomex.com",
+      "path": "/",
+      "expires": 1791489965.456396,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cdmls",
+      "value": "1775765165320",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "mlstkn",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiY2Y1MGFhN2Y4NzdiNjgxNmQyNTgzZGYwMDdkNDM3MDA6OWM0ZmYyZDZiZmQ1NDI2OTllMTRhOTIwOGFkZmI3ODhlMmQ4NDVkNmFkZWZjOGIyNzVjYTVmOWJjZjI0ZDZjMGI3MWEwYWY0MjFkMDlmYjJiYjhiZDMyYjczYzdiNzIwYmFhNTI3MDI1NDM0OThhZTAzYzI5NzkzMjk0YTQwOTkyNzBmNmMwNWJhZDlkMTg2MTUxMTBhMmY3ZTNiNDQ4NDg3ZTRhZDMwMWYyM2Q2MGU5ZmEyODA3MmQ2MzIyNmRhOTE5ZDI5OWEzNDYzZDE4ZTkxNGUwOTg3NDg1NjFjMWU5NWQ3ODlhMWNiZjc4MThiZDJkZjE1MzU3OGYyZjFlNyIsImlhdCI6MTc3NTc2NTE2NSwiZXhwIjoxNzc1NzY4NzY1fQ.ri8rZ6KogtaEgNHrbsCrqOmqygmiiXsdhJhFIEotWoc",
+      "domain": "myservices.intcomex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://myservices.intcomex.com",
+      "localStorage": [
+        {
+          "name": "auth-storage",
+          "value": "{\"state\":{\"country\":\"\",\"authenticating\":false,\"finishedMsalLoad\":true,\"domainEmail\":\"\",\"allowedToAddOrder\":true,\"loggedIn\":true,\"currency\":\"QTZ\",\"currencySymbol\":\"Q\",\"traxCredentials\":{\"companyId\":\"XGT\",\"currencyList\":[],\"sessionId\":null},\"authData\":{\"accessToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6Ilg1ZVhrNHh5b2pORnVtMWtsMll0djhkbE5QNC1jNTdkTzZRR1RWQndhTmsiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NzU3Njg3NjMsIm5iZiI6MTc3NTc2NTE2MywidmVyIjoiMS4wIiwiaXNzIjoiaHR0cHM6Ly9pbnRjb21leGFjY291bnRzLmIyY2xvZ2luLmNvbS81YmMwNGZmNi04MDJhLTQ4MDItYmE0NC0yYWNmNGUyYmJkYTUvdjIuMC8iLCJzdWIiOiJkZWE3OWMxMC1jMzBhLTRkNmEtOTJjMy02N2Y2ZjdiMmQ2NWMiLCJhdWQiOiI5NDRiZGM2NC1iYzZlLTRlYTktYjgzNS0wODNmMjBjYTk3NjYiLCJpYXQiOjE3NzU3NjUxNjMsImF1dGhfdGltZSI6MTc3NTc2NTE2Mywib2lkIjoiZGVhNzljMTAtYzMwYS00ZDZhLTkyYzMtNjdmNmY3YjJkNjVjIiwiZXh0ZW5zaW9uX0N1c3RvbWVySWQiOiJYR1QxMDM2OTUiLCJuYW1lIjoiVXNlciBEeW5hbWljcyBOb0FkbWluIFhHVCIsImdpdmVuX25hbWUiOiJVc2VyIER5bmFtaWNzIiwiZmFtaWx5X25hbWUiOiJOb0FkbWluIFhHVCIsImV4dGVuc2lvbl9Vc2VySWQiOiIxNjQzODIyMTMwNzQxIiwiZW1haWxzIjpbInhndHdlYmRlbW8yQHlvcG1haWwuY29tIl0sInRmcCI6IkIyQ18xX2xvZ2luX3dpdGhfbWZhX3NtcyJ9.i9Q456GjSDrdFaFM-kE44lgU8dZdqVKiOvBVqrjJB2QhmdaKOa5ZwrWJnuW8QqB2RUSpoUgoblMX48chaHt63oJTCf7Ntzp30NQa5AFKXMa1tPLAO1-gB93RCrNsMh1RFoYuY-3bK-B4qxHnzHSIqt5N7eaPGcUpeSndV2nwWY6gDdFe8WUaBfzW24orIL4YRbnkhM2k6BaHrjlmB3MYXgN9RTAHOFQwuSyksukk0ruLsbmUNJS5smXt0Wean1me9Ze6_yvipO-4gbC7x7f0khD7TCLuuRsRLb-igrjBZQ3DL18PXP_yXD9iO5g3XEH8Ul9enoaCGFh6o2iQhDKCkg\",\"account\":{\"username\":\"xgtwebdemo2@yopmail.com\"},\"email\":\"xgtwebdemo2@yopmail.com\",\"idTokenClaims\":{\"customerId\":\"XGT103695\",\"userId\":\"1643822130741\",\"name\":\"User%20Dynamics%20NoAdmin%20XGT\",\"companytype\":\"c3bd050e-3201-eb11-a813-000d3a33a5cc\"},\"typeLogin\":\"b2c\"},\"traxCredentialsCounter\":0},\"version\":0}"
+        },
+        {
+          "name": "previousCountryAndLang",
+          "value": "{\"lang\":\"es\",\"country\":\"XGT\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://intcomexaccounts.b2clogin.com",
+      "localStorage": [
+        {
+          "name": "history",
+          "value": "PROD"
+        }
+      ]
+    }
+  ]
+}

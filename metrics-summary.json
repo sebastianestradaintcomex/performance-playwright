@@ -1,0 +1,110 @@
+{
+  "generatedAt": "2026-04-09T20:07:24.417Z",
+  "totalRuns": 40,
+  "steps": {
+    "store": {
+      "total": {
+        "count": 20,
+        "avg": 35783,
+        "min": 15226,
+        "max": 53071,
+        "p50": 38284,
+        "p95": 53071
+      },
+      "requests": {
+        "HomePromoBanner": {
+          "count": 20,
+          "avg": 4090,
+          "min": 309,
+          "max": 7101,
+          "p50": 4479,
+          "p95": 7101
+        },
+        "HomeTopLineBanner": {
+          "count": 20,
+          "avg": 4055,
+          "min": 945,
+          "max": 7100,
+          "p50": 4740,
+          "p95": 7100
+        },
+        "featured": {
+          "count": 20,
+          "avg": 11641,
+          "min": 1100,
+          "max": 23068,
+          "p50": 12966,
+          "p95": 23068
+        },
+        "HomeMainSlider": {
+          "count": 20,
+          "avg": 4016,
+          "min": 1161,
+          "max": 6966,
+          "p50": 4495,
+          "p95": 6966
+        },
+        "featuredbrands": {
+          "count": 20,
+          "avg": 11342,
+          "min": 1271,
+          "max": 18562,
+          "p50": 13921,
+          "p95": 18562
+        },
+        "discount": {
+          "count": 20,
+          "avg": 11993,
+          "min": 1271,
+          "max": 19174,
+          "p50": 14455,
+          "p95": 19174
+        },
+        "HomeSecondLineBanner": {
+          "count": 20,
+          "avg": 4411,
+          "min": 1185,
+          "max": 8555,
+          "p50": 4478,
+          "p95": 8555
+        },
+        "redtag": {
+          "count": 20,
+          "avg": 11946,
+          "min": 2867,
+          "max": 18789,
+          "p50": 13920,
+          "p95": 18789
+        }
+      }
+    },
+    "categoria": {
+      "total": {
+        "count": 20,
+        "avg": 13748,
+        "min": 6661,
+        "max": 21984,
+        "p50": 13890,
+        "p95": 21984
+      },
+      "requests": {
+        "get-products": {
+          "count": 22,
+          "avg": 4866,
+          "min": 0,
+          "max": 14054,
+          "p50": 3592,
+          "p95": 11932
+        },
+        "get-menu": {
+          "count": 20,
+          "avg": 3300,
+          "min": 74,
+          "max": 7691,
+          "p50": 2871,
+          "p95": 7691
+        }
+      }
+    }
+  }
+}
